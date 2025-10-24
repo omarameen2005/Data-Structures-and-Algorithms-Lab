@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "*.h": "cpp",
+        "string_view": "cpp",
+        "unordered_set": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
