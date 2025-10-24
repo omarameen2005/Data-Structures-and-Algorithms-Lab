@@ -1042,37 +1042,6 @@ int main(){
 
 
 
-    // Q21(unsolved)
-
-
-
-
-
-
-
-    // Answer:
-    // int N,M;
-    // cout << "Enter the value of N: ";
-    // cin >> N;
-    // cout << "Enter the value of M: ";
-    // cin >> M;
-    // int start;
-
-    // if (M == 1){
-    //     start = 1;
-    //     for(int i = start; i<=N; i++){
-    //         if (start >= N){
-    //             cout << "The answer is: " << i << endl;
-    //             break;
-    //         }
-    //         start = start * 2;
-    //     }
-
-    // }
-
-
-
-
 
     
     
